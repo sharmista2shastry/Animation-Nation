@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Typing Effect',
+    pageLink: './Art/sharmista/index.html',
+    imageLink: './Art/sharmista/typingEffect.gif',
+    author: 'Sharmista',
+    githubLink: 'https://github.com/sharmista2shastry'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
